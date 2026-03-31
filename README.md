@@ -1,3 +1,3 @@
 // YH - ENSEA 31/03/2026
-// File to silulate the responses of an 1st order system around its equilibrium position
+// File to simulate the responses of an 1st order system around its equilibrium position
 // Continuous and Discrete Time Correction
